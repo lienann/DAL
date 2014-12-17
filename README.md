@@ -1,15 +1,10 @@
-=== Data access levels ===
-Contributors: lienann 
-Tags: access, level, restriction, permissions
-Requires at least: 3.0
-Tested up to: 4.0.1
-Stable tag: 1.1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Data Access Levels
 
-Restrict access to posts by user access level.
+Wordpress plugin. Restrict access to posts by user access level.
 
-== Description ==
+-----------------------
+
+### Description
 
 This plugin allow to set access level value for users and materials and limit 
 access to materials of a specific type (posts, pages, custom post types) when 
@@ -37,25 +32,13 @@ I apologize for possible mistakes in plugin translation.
 I will be glad to accept the help with the correct translation of a plugin into
 English and to correction of my mistakes.
 
-== Installation ==
+
+### Installation
 
 1. Upload the `data-access-levels` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to the Tools -> DAL settings
 
-== Changelog ==
 
-= 1.1.0 =
-* Updated plugin settings page
-* Added setting "guest access level"
-* Added possibility specify a minimum user access level = 0
-* Updated screenshot
-
-= 1.0 =
-* Initial release
-
-== Screenshots ==
-
-1. Plugin settings page
-2. Access level column from the User panel (users.php)
-3. "Access level" field on edit page
+### Changelog
+Please see `readme.txt` for changelog
